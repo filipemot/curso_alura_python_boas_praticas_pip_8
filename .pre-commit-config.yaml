@@ -1,0 +1,5 @@
+-   repo: https://github.com/filipemot/curso_alura_python_boas_praticas_pip_8
+    rev: ''  # pick a git hash / tag to point to
+    hooks:
+    -   id: flake8
+        additional_dependencies: [flake8-docstrings]
