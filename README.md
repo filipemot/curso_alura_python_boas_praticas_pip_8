@@ -18,7 +18,7 @@
 - Como criar classes utilizando esses métodos;
 - A diferença entre uma classe que usa essas técnicas e uma que não usa.
 
-**Ferramentas de Code Lint**
+**Módulo 2 - Ferramentas de Code Lint**
 
 - Como instalar e usar o MyPy;
 - A criar um projeto no GitHub;
