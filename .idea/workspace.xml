@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f74701e-0f27-4070-9681-8d9ca9594526" name="Changes" comment="Adjust Readme">
-      <change afterPath="$PROJECT_DIR$/.pre-commit-config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tox.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="7f74701e-0f27-4070-9681-8d9ca9594526" name="Changes" comment="Ferramentas de Code Lint">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639768768803</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ferramentas de Code Lint">
+      <created>1640114208655</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1640114208655</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +115,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Descobrindo o PEP-8 e o Type Hints" />
     <MESSAGE value="Adjust Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adjust Readme" />
+    <MESSAGE value="Ferramentas de Code Lint" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ferramentas de Code Lint" />
   </component>
 </project>
