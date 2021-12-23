@@ -25,3 +25,9 @@
 - Como instalar e configurar o Flake8;
 - Como alertar erros de estilo no commit;
 - Como bloquear um commit que tenha problemas de estilo de código.
+
+**Módulo 3 - O Método Template e mais sobre PEP-8**
+
+- Novas regras do PEP-8;
+- Oque é uma classe abstrata;
+- Oque é um Template Method.
