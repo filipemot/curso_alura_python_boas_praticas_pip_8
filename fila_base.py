@@ -2,7 +2,7 @@ class FilaBase:
     codigo: int = 0
     fila = []
     cliente_atendidos = []
-    senha_atual:str = ""
+    senha_atual: str = ""
 
     def reseta_fila(self) -> None:
         if self.codigo >= 100:
