@@ -8,7 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-workspace.xml
+.idea/
 .mypy_cache/
 build/
 develop-eggs/

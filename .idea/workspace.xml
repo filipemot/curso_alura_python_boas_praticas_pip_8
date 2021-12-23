@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f74701e-0f27-4070-9681-8d9ca9594526" name="Changes" comment="Create method template">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="7f74701e-0f27-4070-9681-8d9ca9594526" name="Changes" comment="Adjust Readme">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640280314308</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Adjust Readme">
+      <created>1640280416234</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1640280416234</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,12 +194,12 @@
     <MESSAGE value="Descobrindo o PEP-8 e o Type Hints" />
     <MESSAGE value="Ferramentas de Code Lint" />
     <MESSAGE value="Teste flake 8" />
-    <MESSAGE value="Adjust Readme" />
     <MESSAGE value="Adjust .gitignore" />
     <MESSAGE value="Creation of base row" />
     <MESSAGE value="Adjust errors pip8" />
     <MESSAGE value="Create abstract class" />
     <MESSAGE value="Create method template" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create method template" />
+    <MESSAGE value="Adjust Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjust Readme" />
   </component>
 </project>
