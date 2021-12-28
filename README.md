@@ -6,7 +6,7 @@
 - [X] Descobrindo o PEP-8 e o Type Hints   
 - [X] Ferramentas de Code Lint   
 - [X] O Método Template e mais sobre PEP-8   
-- [ ] Avançando nas técnicas de tipagem 
+- [X] Avançando nas técnicas de tipagem 
 - [ ] Injeção de dependências e responsabilidade
 
 **Conceitos Aprendidos**
@@ -31,3 +31,9 @@
 - Novas regras do PEP-8;
 - Oque é uma classe abstrata;
 - Oque é um Template Method.
+
+**Módulo 4 - Avançando nas técnicas de tipagem**
+
+- Sobre o padrão de projeto Factory;
+- Como trabalhar com constantes seguindo o PEP-8;
+- Mais técnicas de Type Hints.
