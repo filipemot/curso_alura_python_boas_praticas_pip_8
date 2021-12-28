@@ -1,11 +1,12 @@
 # PEP 8  (https://www.python.org/dev/peps/pep-0008/)
+from constantes import CODIGO_NORMAL
 from fila_base import FilaBase
 
 
 class FilaPrioritaria(FilaBase):
 
     def gera_senha_atual(self) -> None:
-        self.senha_atual = str(self.codigo)
+        self.senha_atual = f'${CODIGO_NORMAL}{str(self.codigo)}'
 
     def chama_cliente(self, caixa: int) -> str:
         cliente_atual: str = self.fila.pop(0)
