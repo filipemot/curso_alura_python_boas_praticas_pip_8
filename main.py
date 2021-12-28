@@ -1,14 +1,14 @@
-from fila_normal import FilaNormal
-from fila_prioritaria import FilaPrioritaria
+from constantes import TIPO_FILA_NORMAL, TIPO_FILA_PRIORITARIA
+from fabrica_fila import FabricaFila
 
-fila_teste = FilaNormal()
+fila_teste = FabricaFila.pega_fila(TIPO_FILA_NORMAL)
 fila_teste.atualiza_fila()
 fila_teste.atualiza_fila()
 fila_teste.atualiza_fila()
 print(fila_teste.chama_cliente(5))
 print(fila_teste.chama_cliente(10))
 
-fila_prioritaria = FilaPrioritaria()
+fila_prioritaria = FabricaFila.pega_fila(TIPO_FILA_PRIORITARIA)
 fila_prioritaria.atualiza_fila()
 fila_prioritaria.atualiza_fila()
 fila_prioritaria.atualiza_fila()
