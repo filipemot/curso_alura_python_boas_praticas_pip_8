@@ -7,7 +7,7 @@
 - [X] Ferramentas de Code Lint   
 - [X] O Método Template e mais sobre PEP-8   
 - [X] Avançando nas técnicas de tipagem 
-- [ ] Injeção de dependências e responsabilidade
+- [X] Injeção de dependências e responsabilidade
 
 **Conceitos Aprendidos**
 
@@ -37,3 +37,9 @@
 - Sobre o padrão de projeto Factory;
 - Como trabalhar com constantes seguindo o PEP-8;
 - Mais técnicas de Type Hints.
+
+**Módulo 5 - Injeção de dependências e responsabilidade**
+
+- Como reduzir a quantitade de ifs em seus códigos;
+- Sobre o padrão de projeto Injeção de dependências;
+- Sobre o conceito de responsabilidades nos seus códigos;
