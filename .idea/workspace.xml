@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f74701e-0f27-4070-9681-8d9ca9594526" name="Changes" comment="Change Readme">
+    <list default="true" id="7f74701e-0f27-4070-9681-8d9ca9594526" name="Changes" comment="Create method to depedency injection">
+      <change afterPath="$PROJECT_DIR$/estatistica_detalhada.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estatistica_resumida.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fila_prioritaria.py" beforeDir="false" afterPath="$PROJECT_DIR$/fila_prioritaria.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Estudos\Python\curso_alura_python_boas_praticas_pip_8" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -211,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640702026935</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Create method to depedency injection">
+      <created>1640804670422</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1640804670423</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,6 +253,7 @@
     <MESSAGE value="Create factory rows" />
     <MESSAGE value="Adjust Type" />
     <MESSAGE value="Change Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change Readme" />
+    <MESSAGE value="Create method to depedency injection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create method to depedency injection" />
   </component>
 </project>
